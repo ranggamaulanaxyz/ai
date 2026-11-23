@@ -4,8 +4,8 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "ancient-limit-2bbd",
-	"main": "src/entry.py",
+	"name": "ai",
+	"main": "app/main.py",
 	"compatibility_date": "2026-11-19",
 	"compatibility_flags": [
 		"python_workers"
